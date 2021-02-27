@@ -20,7 +20,7 @@
 
 ## 👀 Sobre
 
-O projeto **Moveit Ibsiany** foi realizado na Next Level Week e é uma técnica pomodoro com desafios a serem cumpridos e níveis à serem alcançados.
+O projeto **Moveit Ibsiany** foi realizado na Next Level Week e é uma técnica pomodoro com desafios a serem cumpridos e níveis a serem alcançados.
 
 ---
 
